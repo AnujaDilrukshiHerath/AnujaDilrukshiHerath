@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Dart, Flutter, React.js**
 
-- 👯 I’m looking to collaborate on **Artificial Intelligence Projects & Full Stack Web Projects**
+- 👯 I’m looking to collaborate on **Artificial Intelligence Projects & Full Stack Mobile app Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnujaDilrukshiHerath](https://github.com/AnujaDilrukshiHerath)
 
