@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence Projects & Full Stack Web Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnujaDilrukshiHerath](https://github.com/AnujaDilrukshiHerath)
+- 👨‍💻 All of my projects are available at [https://github.com/AnujaDilrukshiHerath?tab=repositories
 
 - 💬 Ask me about **Java, Python, R , HTML, CSS, JS, MySQL, Flutter**
 
