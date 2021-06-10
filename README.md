@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1KEVgjM49-aZzj84ItmxgpUWvwBdlWrLZ?usp=sharing](https://drive.google.com/drive/folders/1KEVgjM49-aZzj84ItmxgpUWvwBdlWrLZ?usp=sharing)
 
-- 📄 Know about my projects [https://github.com/AnujaDilrukshiHerath?tab=repositories]
+-👩‍💻 Know about my projects [https://github.com/AnujaDilrukshiHerath?tab=repositories] (https://github.com/AnujaDilrukshiHerath?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
