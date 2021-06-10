@@ -15,7 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/anuja_dilrukshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuja_dilrukshi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anuja-herath-6902631b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuja-herath-6902631b8" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/users/16056030/anuja-dilrukshi-herath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/16056030/anuja-dilrukshi-herath" height="30" width="40" /></a>
+<a href="https://instagram.com/anuja_dilrukshi_herath_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anuja_dilrukshi_herath_/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@anuja_20191180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anuja_20191180" height="30" width="40" /></a>
 </p>
 
