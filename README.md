@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1KEVgjM49-aZzj84ItmxgpUWvwBdlWrLZ?usp=sharing](https://drive.google.com/drive/folders/1KEVgjM49-aZzj84ItmxgpUWvwBdlWrLZ?usp=sharing)
 
+- 📄 Know about my projects [https://github.com/AnujaDilrukshiHerath?tab=repositories]
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anuja_dilrukshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuja_dilrukshi" height="30" width="40" /></a>
