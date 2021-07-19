@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuja Herath</h1>
-<h3 align="center">Backend Developer | CS Undergraduate | Data Science Enthusiast</h3>
+<h3 align="center">FullStack Developer | CS Undergraduate | Data Science Enthusiast</h3>
 
 - 🌱 I’m currently learning **Dart, Flutter, React.js**
 
