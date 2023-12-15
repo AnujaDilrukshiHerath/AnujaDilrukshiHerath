@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuja Herath</h1>
-<h3 align="center">IOS Developer | CS Undergraduate | Data Science Enthusiast</h3>
+<h3 align="center">Django Developer | Software Engineer | Data Scientist </h3>
 
 - 🌱 I’m currently learning **Dart,Swift, Flutter, React.js**
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnujaDilrukshiHerath](https://github.com/AnujaDilrukshiHerath)
 
-- 💬 Ask me about **Java, Python,Swift, Java, HTML, CSS, JS, MySQL, Flutter**
+- 💬 Ask me about **Django, Python,Swift, Java, HTML, CSS, JS, MySQL, Flutter**
 
 - 📫 How to reach me **anuanujadilrukshi@gmail.com**
 
