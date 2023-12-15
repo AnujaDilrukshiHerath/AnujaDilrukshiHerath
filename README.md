@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuja Herath</h1>
-<h3 align="center">Django Developer | Software Engineer | Data Scientist </h3>
+<h3 align="center">Django Developer | Data Scientist </h3>
 
 - 🌱 I’m currently learning **Dart,Swift, Flutter, React.js**
 
