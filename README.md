@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuja Herath</h1>
 <h3 align="center">Django Developer | Data Scientist </h3>
 
-- 🌱 I’m currently learning **Dart,Swift, Flutter, React.js**
+- 🌱 I’m currently learning **Swift, Flutter, React.js**
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence Projects & Full Stack Web Projects**
 
